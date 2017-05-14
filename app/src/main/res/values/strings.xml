@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fleet Manager</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="add_new">+KCG TRIP</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+
+    <string name="date">Date</string>
+    <string name="journey">Journey</string>
+    <string name="fuel">Fuel</string>
+    <string name="payments">Payments</string>
+    <string name="allowances">Allowances</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="deleteTrip">Confirm trip deletion.</string>
+    <string name="yes">Confirm</string>
+    <string name="no">Cancel</string>
+
+    <string name="save">Save Trip</string>
+
+    <string name="title_activity_activity_edit">CreateOrEditActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kcg_data">KCG Data</string>
+</resources>
